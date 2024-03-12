@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @jarradbegg
-- 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jarrad.begg@health.nsw.gov.au
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I play ice hockey
+👋 Hi, I’m @jarradbegg
+
+I am a medical physics specialist working in a cancer therapy centre with limited coding skills (mainly Matlab).
+
+LinkedIn: https://www.linkedin.com/in/jarrad-begg/
+
 
 <!---
 jarradbegg/jarradbegg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
